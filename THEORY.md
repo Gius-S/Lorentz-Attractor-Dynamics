@@ -21,7 +21,9 @@ Where the physical parameters (all positive) dictate the system's behavior:
 
 To find the fixed points, we set the derivatives to zero:
 
-$$\begin{cases} x = y \\ x(\rho - 1 - z) = 0 \\ z = \frac{1}{\beta}x^2 \end{cases}$$
+$$\begin{cases} x = y 
+x(\rho - 1 - z) = 0 
+z = \frac{1}{\beta}x^2 \end{cases}$$
 
 Solving this system yields the following equilibrium points:
 1. The origin: $P_0 = (0,0,0)$
